@@ -54,5 +54,5 @@ switch (cuponDescuento) {
 		document.writeln("<h2> Cupón Erróneo! </h2>");
 		break;
 }
-//
+
 console.log(descuento);
